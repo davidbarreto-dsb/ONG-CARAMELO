@@ -1,4 +1,4 @@
-🐾 ONG Caramelo
+#🐾 ONG Caramelo
 📖 Sobre o Projeto
 
 O projeto Ong Caramelo tem como objetivo promover a inclusão social e o bem-estar animal, conectando pessoas dispostas a ajudar com famílias e comunidades em situação de vulnerabilidade.
@@ -25,7 +25,7 @@ O projeto foi finalizado com foco em usabilidade, acessibilidade e identidade vi
 👩‍🏫 Tutoria
 
 Tutora: Katia Alves
-O projeto foi desenvolvido sob a orientação da tutora, com foco na aplicação prática dos conceitos de desenvolvimento web e responsabilidade social.
+O projeto foi desenvolvido com base no contéudo disponibilizado pela tutora, com foco na aplicação prática dos conceitos de desenvolvimento web e responsabilidade social.
 
 📚 Estrutura do Projeto
 
