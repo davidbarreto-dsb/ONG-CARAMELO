@@ -150,8 +150,7 @@ section.portfolio .flex {
    Hero Section
    ========================== */
 .hero {
-    background: linear-gradient(135deg, #0e3016 0%, #8dac05 100%),
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23f0f0f0" width="1200" height="600"/></svg>');
+    background: linear-gradient(135deg, #0e3016 0%, #8dac05 100%);
     background-size: cover;
     background-position: center;
     height: 100vh;
