@@ -1,4 +1,4 @@
-#🐾 ONG Caramelo
+# 🐾 ONG Caramelo
 📖 Sobre o Projeto
 
 O projeto Ong Caramelo tem como objetivo promover a inclusão social e o bem-estar animal, conectando pessoas dispostas a ajudar com famílias e comunidades em situação de vulnerabilidade.
@@ -56,4 +56,4 @@ Este projeto está licenciado sob a Licença MIT — veja o arquivo LICENSE
 
 💛 Agradecimentos
 
-Agradecemos a todos os voluntários, colaboradores e apoiadores da causa animal, e especialmente à tutora Katia Alves pelo suporte técnico e incentivo à prática cidadã por meio da tecnologia.# aulaProgramacaoWeb
+Agradecemos a todos os voluntários, colaboradores e apoiadores da causa animal, e especialmente à tutora Katia Alves pelo suporte técnico e incentivo à prática cidadã por meio da tecnologia.
