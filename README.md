@@ -16,6 +16,12 @@ CSS3 — estilização e design responsivo
 
 JavaScript (puro) — interatividade e funcionalidades dinâmicas
 
+🚀 Deploy
+
+O projeto foi hospedado e está disponível online através da plataforma Netlify, garantindo fácil acesso, performance otimizada e deploy contínuo.
+
+🔗 Acesse o site: https://legendary-tulumba-6105d7.netlify.app
+
 🚀 Status do Projeto
 
 ✅ Concluído
